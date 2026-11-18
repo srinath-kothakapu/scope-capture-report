@@ -1,0 +1,5 @@
+{
+  "frequency_hz": {"min": 99000, "max": 101000},
+  "vpp_v":        {"min": 3.2,   "max": 3.8},
+  "rise_time_s":  {"max": 5e-7}
+}
