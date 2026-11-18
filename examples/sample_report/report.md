@@ -7,6 +7,8 @@
 - Samples: 1200
 - Result: **PASS**
 
+![waveform](waveform.png)
+
 ## Measurements
 
 | Measurement | Value | Unit |
