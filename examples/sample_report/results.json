@@ -1,0 +1,34 @@
+{
+  "results": {
+    "vpp_v": 3.44,
+    "v_low_v": -0.04,
+    "v_high_v": 3.3200000000000003,
+    "v_mean_v": 1.657466666666667,
+    "v_rms_v": 2.310768991771643,
+    "frequency_hz": 100006.89385757291,
+    "rise_time_s": 3.062235897435902e-07
+  },
+  "checks": [
+    {
+      "name": "frequency_hz",
+      "value": 100006.89385757291,
+      "min": 99000,
+      "max": 101000,
+      "pass": true
+    },
+    {
+      "name": "vpp_v",
+      "value": 3.44,
+      "min": 3.2,
+      "max": 3.8,
+      "pass": true
+    },
+    {
+      "name": "rise_time_s",
+      "value": 3.062235897435902e-07,
+      "min": null,
+      "max": 5e-07,
+      "pass": true
+    }
+  ]
+}
