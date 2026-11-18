@@ -1,0 +1,5 @@
+numpy
+matplotlib
+pyvisa
+pyvisa-py   # pure-Python VISA backend, needed for LAN/USB scopes without NI-VISA
+pytest
